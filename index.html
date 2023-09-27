@@ -8,48 +8,70 @@
   </head>
   <body>
     <div class="candidate-reg-container">
-      <form class="candidate-fields" id="candidate-fields">
+      <form
+        class="candidate-fields"
+        id="candidate-fields"
+        action="showData.html"
+      >
         <h1>Candidate Registration</h1>
         <br />
         <div class="fields">
           <label for="fname">First Name</label>
-          <input type="text" id="fname" name="fname" />
+          <input type="text" id="fname" name="fname" required />
         </div>
         <div class="fields">
           <label for="lname">Last Name</label>
-          <input type="text" id="lname" name="lname" />
+          <input type="text" id="lname" name="lname" required />
         </div>
         <div class="fields">
           <label for="mname">Middle Name</label>
-          <input type="text" id="mname" name="mname" />
+          <input type="text" id="mname" name="mname" required />
+        </div>
+        <div class="fields">
+          <label for="title">Title</label>
+          <input type="text" id="title" name="title" required />
         </div>
         <div class="fields">
           <label for="email">Email Id</label>
-          <input type="email" id="email" name="email" />
+          <input type="email" id="email" name="email" required />
         </div>
         <div class="fields">
           <label for="mnumber">Mobile Number</label>
-          <input type="number" id="mnumber" name="mnumber" />
+          <input type="" id="mnumber" name="mnumber" required />
+        </div>
+        <div class="fields">
+          <label for="tenth">10<span>th</span> %</label>
+          <input type="text" id="tenth" name="tenth" required />
+        </div>
+        <div class="fields">
+          <label for="Twelfth">12<span>th</span> %</label>
+          <input type="text" id="Twelfth" name="Twelfth" required />
         </div>
         <div class="fields">
           <label for="qualification">Highest Qualification</label>
-          <input type="text" id="qualification" name="qualification" />
+          <input type="text" id="qualification" name="qualification" required />
         </div>
         <div class="fields">
           <label for="uniname">University Name</label>
-          <input type="text" id="uniname" name="uniname" />
+          <input type="text" id="uniname" name="uniname" required />
         </div>
         <div class="fields">
           <label for="gpa">CGPA/GPA</label>
-          <input type="text" id="gpa" name="gpa" />
+          <input type="text" id="gpa" name="gpa" required />
         </div>
         <div class="fields">
           <label for="place">Place Of Residence</label>
-          <input type="text" id="place" name="gpa" />
+          <input type="text" id="place" name="gpa" required />
         </div>
         <br />
         <div class="fields1">
-          <button type="submit" class="fields1">Submit</button>
+          <button
+            type="submit"
+            class="fields1"
+            onclick="document.location='showData.html'"
+          >
+            Submit
+          </button>
         </div>
       </form>
     </div>
