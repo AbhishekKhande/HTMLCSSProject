@@ -60,18 +60,25 @@
           <input type="text" id="gpa" name="gpa" required />
         </div>
         <div class="fields">
-          <label for="place">Place Of Residence</label>
-          <input type="text" id="place" name="gpa" required />
+          <label for="country">Country:</label>
+          <select id="country">
+            <option value="canada">Canada</option>
+            <option value="india">India</option>
+            <option value="england">England</option>
+            <option value="usa">USA</option>
+          </select>
+        </div>
+        <div class="fields">
+          <label for="state">State:</label>
+          <select id="state"></select>
+        </div>
+        <div class="fields">
+          <label for="city">City:</label>
+          <select id="city"></select>
         </div>
         <br />
         <div class="fields1">
-          <button
-            type="submit"
-            class="fields1"
-            onclick="document.location='showData.html'"
-          >
-            Submit
-          </button>
+          <button type="submit" class="fields1">Submit</button>
         </div>
       </form>
     </div>

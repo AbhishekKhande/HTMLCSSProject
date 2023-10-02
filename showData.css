@@ -43,3 +43,21 @@ body {
 .content {
   border-right: 3px solid white;
 }
+
+.ajax-button {
+  display: flex;
+  gap: 1%;
+  justify-content: center;
+  align-items: center;
+}
+
+.ajax-button #getBtn {
+  background-color: greenyellow;
+  padding: 1%;
+  border-radius: 6px;
+}
+.ajax-button #deleteBtn {
+  background-color: rgb(255, 87, 87);
+  padding: 1%;
+  border-radius: 6px;
+}

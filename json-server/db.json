@@ -1,0 +1,393 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "FirstName": "Abhi",
+      "LastName": "Khandelwal",
+      "MiddleName": "Mahi",
+      "EmailId": "abhi23@gmail.com",
+      "Title": "Frontend Developer",
+      "MobileNumber": "9999999999",
+      "highestQualification": "B.E",
+      "UniversityName": "SPPU",
+      "GPA_CGPA": "8",
+      "City": "Pune"
+    },
+    {
+      "id": "3",
+      "FirstName": "User",
+      "LastName": "Three",
+      "MiddleName": "Mid",
+      "EmailId": "user3@gmail.com",
+      "Title": "UI Designer",
+      "MobileNumber": "7777777777",
+      "highestQualification": "B.A",
+      "UniversityName": "Another University",
+      "GPA_CGPA": "9",
+      "City": "Los Angeles"
+    },
+    {
+      "id": "4",
+      "FirstName": "User",
+      "LastName": "Four",
+      "MiddleName": "Middy",
+      "EmailId": "user4@gmail.com",
+      "Title": "Data Analyst",
+      "MobileNumber": "6666666666",
+      "highestQualification": "Ph.D",
+      "UniversityName": "Data University",
+      "GPA_CGPA": "8.7",
+      "City": "Chicago"
+    },
+    {
+      "id": "5",
+      "FirstName": "User",
+      "LastName": "Five",
+      "MiddleName": "Midster",
+      "EmailId": "user5@gmail.com",
+      "Title": "QA Engineer",
+      "MobileNumber": "5555555555",
+      "highestQualification": "MBA",
+      "UniversityName": "Business School",
+      "GPA_CGPA": "7.2",
+      "City": "San Francisco"
+    },
+    {
+      "id": "6",
+      "FirstName": "User",
+      "LastName": "Six",
+      "MiddleName": "Midsix",
+      "EmailId": "user6@gmail.com",
+      "Title": "DevOps Engineer",
+      "MobileNumber": "4444444444",
+      "highestQualification": "M.Tech",
+      "UniversityName": "Tech Institute",
+      "GPA_CGPA": "8.5",
+      "City": "Seattle"
+    },
+    {
+      "id": "7",
+      "FirstName": "User",
+      "LastName": "Seven",
+      "MiddleName": "Midseven",
+      "EmailId": "user7@gmail.com",
+      "Title": "Product Manager",
+      "MobileNumber": "3333333333",
+      "highestQualification": "B.Sc",
+      "UniversityName": "Science College",
+      "GPA_CGPA": "7.8",
+      "City": "Austin"
+    },
+    {
+      "id": "8",
+      "FirstName": "User",
+      "LastName": "Eight",
+      "MiddleName": "Mideight",
+      "EmailId": "user8@gmail.com",
+      "Title": "Systems Engineer",
+      "MobileNumber": "2222222222",
+      "highestQualification": "BBA",
+      "UniversityName": "Business University",
+      "GPA_CGPA": "6.5",
+      "City": "Miami"
+    },
+    {
+      "id": "9",
+      "FirstName": "User",
+      "LastName": "Nine",
+      "MiddleName": "Midnine",
+      "EmailId": "user9@gmail.com",
+      "Title": "Data Scientist",
+      "MobileNumber": "1111111111",
+      "highestQualification": "M.Sc",
+      "UniversityName": "Data Science Institute",
+      "GPA_CGPA": "9.2",
+      "City": "Denver"
+    },
+    {
+      "id": "10",
+      "FirstName": "User",
+      "LastName": "Ten",
+      "MiddleName": "Midten",
+      "EmailId": "user10@gmail.com",
+      "Title": "Software Engineer",
+      "MobileNumber": "9999999990",
+      "highestQualification": "B.Tech",
+      "UniversityName": "Tech University",
+      "GPA_CGPA": "8.9",
+      "City": "Philadelphia"
+    },
+    {
+      "id": "11",
+      "FirstName": "User",
+      "LastName": "Eleven",
+      "MiddleName": "Mideleven",
+      "EmailId": "user11@gmail.com",
+      "Title": "UI/UX Designer",
+      "MobileNumber": "8888888881",
+      "highestQualification": "B.Arch",
+      "UniversityName": "Design School",
+      "GPA_CGPA": "7.0",
+      "City": "Boston"
+    },
+    {
+      "id": "12",
+      "FirstName": "User",
+      "LastName": "Twelve",
+      "MiddleName": "Midtwelve",
+      "EmailId": "user12@gmail.com",
+      "Title": "Database Administrator",
+      "MobileNumber": "7777777772",
+      "highestQualification": "MCA",
+      "UniversityName": "Computer Institute",
+      "GPA_CGPA": "8.3",
+      "City": "Houston"
+    },
+    {
+      "id": "13",
+      "FirstName": "User",
+      "LastName": "Thirteen",
+      "MiddleName": "Midthirteen",
+      "EmailId": "user13@gmail.com",
+      "Title": "Network Engineer",
+      "MobileNumber": "6666666663",
+      "highestQualification": "B.Com",
+      "UniversityName": "Commerce College",
+      "GPA_CGPA": "6.7",
+      "City": "Las Vegas"
+    },
+    {
+      "id": "14",
+      "FirstName": "User",
+      "LastName": "Fourteen",
+      "MiddleName": "Midfourteen",
+      "EmailId": "user14@gmail.com",
+      "Title": "Security Analyst",
+      "MobileNumber": "5555555554",
+      "highestQualification": "B.S",
+      "UniversityName": "Security School",
+      "GPA_CGPA": "7.4",
+      "City": "Phoenix"
+    },
+    {
+      "id": "15",
+      "FirstName": "User",
+      "LastName": "Fifteen",
+      "MiddleName": "Midfifteen",
+      "EmailId": "user15@gmail.com",
+      "Title": "Full Stack Developer",
+      "MobileNumber": "4444444445",
+      "highestQualification": "M.E",
+      "UniversityName": "Engineering Institute",
+      "GPA_CGPA": "8.0",
+      "City": "San Diego"
+    },
+    {
+      "id": "16",
+      "FirstName": "User",
+      "LastName": "Sixteen",
+      "MiddleName": "Midsixteen",
+      "EmailId": "user16@gmail.com",
+      "Title": "Business Analyst",
+      "MobileNumber": "3333333336",
+      "highestQualification": "B.Sc",
+      "UniversityName": "Business College",
+      "GPA_CGPA": "7.6",
+      "City": "Portland"
+    },
+    {
+      "id": "17",
+      "FirstName": "User",
+      "LastName": "Seventeen",
+      "MiddleName": "Midseventeen",
+      "EmailId": "user17@gmail.com",
+      "Title": "QA Tester",
+      "MobileNumber": "2222222227",
+      "highestQualification": "B.Tech",
+      "UniversityName": "Tech School",
+      "GPA_CGPA": "6.2",
+      "City": "Atlanta"
+    },
+    {
+      "id": "18",
+      "FirstName": "User",
+      "LastName": "Eighteen",
+      "MiddleName": "Mideighteen",
+      "EmailId": "user18@gmail.com",
+      "Title": "Project Manager",
+      "MobileNumber": "1111111118",
+      "highestQualification": "MBA",
+      "UniversityName": "Business Institute",
+      "GPA_CGPA": "9.5",
+      "City": "Detroit"
+    },
+    {
+      "id": "19",
+      "FirstName": "User",
+      "LastName": "Nineteen",
+      "MiddleName": "Midnineteen",
+      "EmailId": "user19@gmail.com",
+      "Title": "Software Architect",
+      "MobileNumber": "9999999999",
+      "highestQualification": "B.Arch",
+      "UniversityName": "Architecture School",
+      "GPA_CGPA": "7.8",
+      "City": "Minneapolis"
+    },
+    {
+      "id": "20",
+      "FirstName": "User",
+      "LastName": "Twenty",
+      "MiddleName": "Midtwenty",
+      "EmailId": "user20@gmail.com",
+      "Title": "DevOps Engineer",
+      "MobileNumber": "8888888880",
+      "highestQualification": "B.S",
+      "UniversityName": "Science School",
+      "GPA_CGPA": "7.1",
+      "City": "Raleigh"
+    },
+    {
+      "id": 99,
+      "FirstName": "asd",
+      "LastName": "asd",
+      "MiddleName": "asfsgda",
+      "EmailId": "sadg@gmail.com",
+      "Title": "asdg",
+      "MobileNumber": "8818219293",
+      "highestQualification": "asdg",
+      "UniversityName": "fbndfgjhj",
+      "GPA_CGPA": "hgkkghk"
+    },
+    {
+      "id": 345,
+      "FirstName": "asd",
+      "LastName": "asfsadgdfh",
+      "MiddleName": "sdfh",
+      "EmailId": "fsg@ew5.com",
+      "Title": "sfgj",
+      "MobileNumber": "1297312412",
+      "highestQualification": "dfh",
+      "UniversityName": "nsfg",
+      "GPA_CGPA": "dfh"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "India",
+      "states": [
+        {
+          "id": 11,
+          "name": "Maharashtra",
+          "cities": [
+            {
+              "id": 111,
+              "name": "Mumbai"
+            },
+            {
+              "id": 112,
+              "name": "Pune"
+            },
+            {
+              "id": 113,
+              "name": "Nagpur"
+            },
+            {
+              "id": 114,
+              "name": "Nashik"
+            },
+            {
+              "id": 115,
+              "name": "Aurangabad"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Karnataka",
+          "cities": [
+            {
+              "id": 121,
+              "name": "Bangalore"
+            },
+            {
+              "id": 122,
+              "name": "Mysore"
+            },
+            {
+              "id": 123,
+              "name": "Hubli"
+            },
+            {
+              "id": 124,
+              "name": "Belgaum"
+            },
+            {
+              "id": 125,
+              "name": "Mangalore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "states": [
+        {
+          "id": 21,
+          "name": "Ontario",
+          "cities": [
+            {
+              "id": 211,
+              "name": "Toronto"
+            },
+            {
+              "id": 212,
+              "name": "Ottawa"
+            },
+            {
+              "id": 213,
+              "name": "Mississauga"
+            },
+            {
+              "id": 214,
+              "name": "Hamilton"
+            },
+            {
+              "id": 215,
+              "name": "London"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Quebec",
+          "cities": [
+            {
+              "id": 221,
+              "name": "Montreal"
+            },
+            {
+              "id": 222,
+              "name": "Quebec City"
+            },
+            {
+              "id": 223,
+              "name": "Laval"
+            },
+            {
+              "id": 224,
+              "name": "Gatineau"
+            },
+            {
+              "id": 225,
+              "name": "Sherbrooke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

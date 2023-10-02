@@ -47,6 +47,16 @@ body {
   border-radius: 5px;
   padding: 10px;
 }
+.fields select {
+  font-size: clamp(1rem, 1.5vw, 2.5rem);
+  color: rgb(69, 57, 57);
+  width: 70%;
+  height: 80%;
+  background-color: antiquewhite;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
 .fields input:hover {
   background-color: rgb(194, 176, 152);
   border: 2px solid rgb(0, 0, 0);
