@@ -2,9 +2,9 @@ const form = document.getElementById("candidate-fields");
 const countryDropdown = document.getElementById("country");
 const stateDropdown = document.getElementById("state");
 const cityDropdown = document.getElementById("city");
-let country = document.getElementById("country").value;
-let city = document.getElementById("city").value;
-let state = document.getElementById("state").value;
+let country = document.getElementById("country");
+let city = document.getElementById("city");
+let state = document.getElementById("state");
 
 document.addEventListener("DOMContentLoaded", async () => {
   form.addEventListener("submit", (e) => {

@@ -270,6 +270,19 @@
       "highestQualification": "dfh",
       "UniversityName": "nsfg",
       "GPA_CGPA": "dfh"
+    },
+    {
+      "id": 63,
+      "FirstName": "Abhijit ",
+      "LastName": "Jagtap",
+      "MiddleName": "Narayan",
+      "EmailId": "abhijeet@gmail.com",
+      "Title": "Sales",
+      "MobileNumber": "8668992937",
+      "highestQualification": "MCA",
+      "UniversityName": "Sinhagad",
+      "GPA_CGPA": "10",
+      "City": "Bengaluru"
     }
   ],
   "countries": [
